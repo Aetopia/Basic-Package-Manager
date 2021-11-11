@@ -1,3 +1,3 @@
 # Basic Package Manager
-A simple framework allowing anybody to create a package manager.   
+A simple framework for creating a basic package manager.   
 Made using Python and PowerShell.
